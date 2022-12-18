@@ -1,0 +1,6 @@
+*.pyc
+*.mp4
+*.txt
+*.tex
+__pycache__
+media
